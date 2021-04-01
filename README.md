@@ -12,8 +12,8 @@ From the Unity Hub, I created a **High Definition RP** project and made the foll
 - Moved **VolumeGlobal.asset** from `Assets/SampleSceneAssets/Settings/Volumes` to `Assets/HDRPDefaultResources/Settings/Volumes` and renamed it to **DefaultVolumeProfile.asset**
 - Replaced the contents of **Diffusion Profile List** with default assets from the HDRP package
 - Changed **Fixed Timestep** from `0.02` to `0.01666667` to match the 60Hz tick rate elsewhere in the engine
-- Created **BlankScene.unity** in `Assets/Scenes` from the **Basic Outdoors** template
-- Deleted **SampleScene.unity** and the `Assets/SampleSceneAssets` folder
+- ~~Created **BlankScene.unity** in `Assets/Scenes` from the **Basic Outdoors** template~~
+- Deleted the `Assets/Scenes` and `Assets/SampleSceneAssets` folders
 - Deleted a missing AudioImporter preset from **Preset Manager**
 
 At the time of writing this README, the entire project is under 700 KB on disk. That's quite an improvement over the 100+ MB just for the Assets folder of the High Definition RP template! I hope this encourages you to try more quick, silly things in Unity, without having to repeat this process every time you start.
