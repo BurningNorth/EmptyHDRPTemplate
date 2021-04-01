@@ -12,6 +12,7 @@ From the Unity Hub, I created a **High Definition RP** project and made the foll
 - Moved **VolumeGlobal.asset** from `Assets/SampleSceneAssets/Settings/Volumes` to `Assets/HDRPDefaultResources/Settings/Volumes` and renamed it to **DefaultVolumeProfile.asset**
 - Replaced the contents of **Diffusion Profile List** with default assets from the HDRP package
 - Changed **Fixed Timestep** from `0.02` to `0.01666667` to match the 60Hz tick rate elsewhere in the engine
+- Removed reference to **SampleScene.unity** from the **Build Settings** list
 - Deleted the `Assets/Scenes` and `Assets/SampleSceneAssets` folders
 - Deleted a missing AudioImporter preset from **Preset Manager**
 
