@@ -3,7 +3,7 @@ An empty HDRP project template for Unity 2020.3 LTS.
 -----
 In an ideal world, starting a new High Definition RP project in Unity would mean simply creating the project, deleting all the sample content, and getting to work. Unfortunately, the default template includes a number of project-wide settings that directly reference the sample assets, which can cause unexpected behavior if you just delete those assets.
 
-Untangling this stuff takes less than an hour, but if you're like me and you like to spin up lots of quick prototype projects in rapid succession, it gets tedious real fast. So instead, I created this *actually* empty HDRP project in Unity 2020.3.2f1. You can fork this repo if you want, but you may prefer to use it as a template or just [download the zip archive](https://github.com/BurningNorth/EmptyHDRPTemplate/archive/refs/heads/main.zip) so you can start a fresh repo for your own project.
+It takes less than an hour to untangle this stuff, but if you're like me and you like to spin up lots of prototypes in rapid succession, it gets tedious real fast. So instead, I created this *actually* empty HDRP project in Unity 2020.3.2f1. You can fork the repo if you want, but you may prefer to use it as a template or just [download the zip archive](https://github.com/BurningNorth/EmptyHDRPTemplate/archive/refs/heads/main.zip) so you can start a fresh repo for your own project.
 
 From the Unity Hub, I created a **High Definition RP** project and made the following changes:
 
